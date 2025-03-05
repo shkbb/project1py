@@ -1,1 +1,1 @@
-# project1py
+Just not finished game on RenPy.
